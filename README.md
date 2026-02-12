@@ -237,4 +237,4 @@ This project is created for educational purposes as part of a JavaScript develop
 
 **Built with ❤️ using vanilla JavaScript**
 
-*No frameworks, just pure web development skills!*
+
