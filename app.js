@@ -1,5 +1,5 @@
 // ===== CONFIGURATION =====
-const API_KEY = 'bd5e378503939ddaee76f12ad7a97608'; // Free OpenWeatherMap API key
+const API_KEY = '5125ecb1b74752dd3f64e13bb61b8075'; // Free OpenWeatherMap API key
 const API_BASE_URL = 'https://api.openweathermap.org/data/2.5/weather';
 const STORAGE_KEY = 'weatherAppHistory';
 const DARK_MODE_KEY = 'weatherAppDarkMode';
