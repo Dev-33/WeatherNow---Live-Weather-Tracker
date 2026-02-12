@@ -1,5 +1,6 @@
 // ===== CONFIGURATION =====
-const API_KEY = '5125ecb1b74752dd3f64e13bb61b8075'; // Free OpenWeatherMap API key
+const API_KEY = Your_API_Key; 
+//  Note: I have  not put my secret key due to security reason you'll get free key when you create your account.
 const API_BASE_URL = 'https://api.openweathermap.org/data/2.5/weather';
 const STORAGE_KEY = 'weatherAppHistory';
 const DARK_MODE_KEY = 'weatherAppDarkMode';
